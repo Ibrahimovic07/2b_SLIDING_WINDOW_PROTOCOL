@@ -1,6 +1,9 @@
 # EX 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-### Register no: 212223100034
-### Name: mohammed ibrahim mn
+
+## Register no: 212223100034
+## Name: mohammed ibrahim mn
+## Date : 2/9/2024
+
 ## AIM:
 To implent the program for the implementationof sliding window protocol
 ## ALGORITHM:
